@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: e91eaddbfebeb1f4f82378ee6e5f3edc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -432674713727891427
+    second: enemyIdle1
+  - first:
+      213: 1543661310651966809
+    second: PlayerMovement_1
+  - first:
+      213: 3770782470277414165
+    second: PlayerMovement_2
+  - first:
+      213: -6066284856684404652
+    second: PlayerMovement_3
+  - first:
+      213: -5596377565492435346
+    second: PlayerMovement_4
+  - first:
+      213: 7372979681074637929
+    second: PlayerMovement_5
+  - first:
+      213: 6586695387379378946
+    second: PlayerMovement_6
+  - first:
+      213: 5594404266359136856
+    second: PlayerMovement_7
+  - first:
+      213: 8858154559476491005
+    second: PlayerMovement_8
+  - first:
+      213: -4311783441467421291
+    second: PlayerMovement_9
+  - first:
+      213: -7220676078523729489
+    second: PlayerMovement_10
+  - first:
+      213: -4291195175590725768
+    second: PlayerMovement_11
+  - first:
+      213: -8600614923291064651
+    second: PlayerMovement_12
+  - first:
+      213: 3256180386483506618
+    second: PlayerMovement_13
+  - first:
+      213: 4957652053949925724
+    second: PlayerMovement_14
+  - first:
+      213: -6041442908715943636
+    second: PlayerMovement_15
+  - first:
+      213: -8760685433376814064
+    second: PlayerMovement_16
+  - first:
+      213: -3512376420922202563
+    second: PlayerMovement_17
+  - first:
+      213: 5471989442847475129
+    second: PlayerMovement_18
+  - first:
+      213: 5961927400127776652
+    second: PlayerMovement_19
+  - first:
+      213: -4124378962046463826
+    second: PlayerMovement_20
+  - first:
+      213: -886158756622226098
+    second: EnemyRun1
+  - first:
+      213: 5289198783271636236
+    second: EnemyRun2
+  - first:
+      213: -5719565726308487511
+    second: EnemyRun3
+  - first:
+      213: -1478128270008102592
+    second: EnemyRun4
+  - first:
+      213: 2867270627495466252
+    second: PlayerMovement_25
+  - first:
+      213: 3742424223161819218
+    second: PlayerMovement_26
+  - first:
+      213: 8421751037339619130
+    second: EnemyRun5
+  - first:
+      213: 5321412536521228662
+    second: EnemyRun6
+  - first:
+      213: 3770039845644805195
+    second: PlayerMovement_29
+  - first:
+      213: 8594018909772753110
+    second: PlayerMovement_30
+  - first:
+      213: -549819044551443219
+    second: PlayerMovement_31
+  - first:
+      213: -8097271380455373146
+    second: PlayerMovement_32
+  - first:
+      213: 5486140594857726311
+    second: PlayerMovement_33
+  - first:
+      213: 2966618583107317767
+    second: PlayerMovement_34
+  - first:
+      213: 6328503063924994492
+    second: PlayerMovement_35
+  - first:
+      213: 6229531885162197100
+    second: PlayerMovement_36
+  - first:
+      213: 1233207640991333617
+    second: PlayerMovement_37
+  - first:
+      213: 6280039208580926074
+    second: PlayerMovement_38
+  - first:
+      213: 4243751898192303010
+    second: PlayerMovement_39
+  - first:
+      213: -3231015281161946231
+    second: PlayerMovement_40
+  - first:
+      213: 1064681636383846875
+    second: PlayerMovement_41
+  - first:
+      213: -1582466679581829851
+    second: PlayerMovement_42
+  - first:
+      213: -5827341409855781463
+    second: PlayerMovement_43
+  - first:
+      213: -4987514423083626962
+    second: PlayerMovement_44
+  - first:
+      213: 3875093852004036800
+    second: PlayerMovement_45
+  - first:
+      213: -6986249382495592989
+    second: PlayerMovement_46
+  - first:
+      213: -5894684763589284577
+    second: PlayerMovement_47
+  - first:
+      213: -7887836769365403099
+    second: PlayerMovement_48
+  - first:
+      213: 2622231215440193526
+    second: PlayerMovement_49
+  - first:
+      213: -693836051028392642
+    second: PlayerMovement_50
+  - first:
+      213: 8320137678995058189
+    second: PlayerMovement_51
+  - first:
+      213: -7515080922213099227
+    second: PlayerMovement_52
+  - first:
+      213: 2780593562972947365
+    second: PlayerMovement_53
+  - first:
+      213: 1957462102018755260
+    second: PlayerMovement_54
+  - first:
+      213: 7618402488553610553
+    second: PlayerMovement_55
+  - first:
+      213: -5408099362950336231
+    second: PlayerMovement_56
+  - first:
+      213: -473022826563916610
+    second: PlayerMovement_57
+  - first:
+      213: 5920307182194843997
+    second: PlayerMovement_58
+  - first:
+      213: 8974925717596882808
+    second: PlayerMovement_59
+  - first:
+      213: 4832181586732142619
+    second: PlayerMovement_60
+  - first:
+      213: -5866232721717413571
+    second: PlayerMovement_61
+  - first:
+      213: 4413982286537596440
+    second: PlayerMovement_62
+  - first:
+      213: -4843254972199891355
+    second: PlayerMovement_63
+  - first:
+      213: 3632000870303629255
+    second: PlayerMovement_64
+  - first:
+      213: 2224421198586647774
+    second: PlayerMovement_65
+  - first:
+      213: -5003649259191482728
+    second: PlayerMovement_66
+  - first:
+      213: 5781200471269751748
+    second: PlayerMovement_67
+  - first:
+      213: -921584109532615906
+    second: PlayerMovement_68
+  - first:
+      213: 376352478256338818
+    second: PlayerMovement_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemyIdle1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 656
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1884f8e3a4def9f0800000000000000
+      internalID: -432674713727891427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRun1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 273
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d2ee05e4bb3b3f0800000000000000
+      internalID: -886158756622226098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRun2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 272
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d855f1542076940800000000000000
+      internalID: 5289198783271636236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRun3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 272
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae22e5864500a0b0800000000000000
+      internalID: -5719565726308487511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRun4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 272
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04154bd7b22ac7be0800000000000000
+      internalID: -1478128270008102592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRun5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 272
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fc767b2f110e470800000000000000
+      internalID: 8421751037339619130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyRun6
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 272
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67188a6028479d940800000000000000
+      internalID: 5321412536521228662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerMovement_47
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 146
+        width: 13
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6a5b507fd13ea0800000000000000
+      internalID: -5894684763589284577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
